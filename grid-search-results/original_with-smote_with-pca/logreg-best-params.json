@@ -1,0 +1,9 @@
+{
+    "sample_size": 1000000,
+    "params": {
+        "logreg__C": 0.01,
+        "logreg__penalty": "l1",
+        "smote__k_neighbors": 3
+    },
+    "smote_target_rank": 3
+}

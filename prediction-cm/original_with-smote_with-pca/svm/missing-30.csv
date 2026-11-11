@@ -1,0 +1,16 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_svm__kernel,param_svm__C,param_svm__gamma,param_svm,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,Benign,2014607,1203,6097,1110,75,1,1839,1289,151,6,845,4,3783,1243,430
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,Bot,8439,20346,6,95,0,0,0,0,0,0,0,0,21,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,Brute Force -Web,39,0,57,11,0,0,3,0,0,0,0,0,0,1,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,Brute Force -XSS,16,0,1,29,0,0,0,0,0,0,0,0,0,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DDOS attack-HOIC,10998,3,144,55,28567,0,5,0,0,0,0,0,0,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DDOS attack-LOIC-UDP,89,0,0,0,0,257,0,0,0,0,0,0,0,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DDoS attacks-LOIC-HTTP,31792,4,1301,112,0,107,80926,0,0,0,0,0,760,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DoS attacks-GoldenEye,2011,0,34,10,0,0,6,6158,49,0,0,0,0,0,10
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DoS attacks-Hulk,7943,3,296,98,0,0,10,103,20555,0,21,0,0,0,11
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DoS attacks-SlowHTTPTest,5,0,0,0,0,0,0,0,0,3,1,2,0,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,DoS attacks-Slowloris,530,0,0,0,0,0,0,0,0,0,1412,0,0,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,FTP-BruteForce,2,0,0,0,0,0,0,0,0,8,1,0,0,0,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,Infilteration,26642,5,68,39,1,0,36,6,1,3,13,2,1285,17,4
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,SQL Injection,7,0,2,0,0,0,0,0,0,0,0,0,0,8,0
+original_with-smote_with-pca,original,with-smote,with-pca,svm,RetrySVC,26,95.73534393310547,3,rbf,10.0,0.1,RetrySVC,missing-30,missing,0.3,SSH-Bruteforce,5098,0,0,0,0,0,0,0,2,0,0,0,0,2,13708

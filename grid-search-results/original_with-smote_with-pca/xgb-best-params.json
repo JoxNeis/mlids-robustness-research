@@ -1,0 +1,11 @@
+{
+    "sample_size": 1000000,
+    "params": {
+        "smote__k_neighbors": 5,
+        "xgb__colsample_bytree": 1.0,
+        "xgb__learning_rate": 0.1,
+        "xgb__max_depth": 8,
+        "xgb__n_estimators": 200
+    },
+    "smote_target_rank": 3
+}
