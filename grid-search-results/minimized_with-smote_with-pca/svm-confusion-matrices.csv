@@ -1,0 +1,799 @@
+candidate,param_smote__k_neighbors,param_svm__C,param_svm__gamma,param_svm__kernel,param_svm,split,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+0,7,10.0,0.1,rbf,,0,Benign,35246,1,0,37,11,5
+0,7,10.0,0.1,rbf,,0,Bot,6,496,0,0,0,0
+0,7,10.0,0.1,rbf,,0,Brute Force,2,0,327,1,0,0
+0,7,10.0,0.1,rbf,,0,DoS,36,0,0,3340,0,0
+0,7,10.0,0.1,rbf,,0,Infiltration,480,0,0,1,7,0
+0,7,10.0,0.1,rbf,,0,SQL Injection,2,0,0,0,0,2
+0,7,10.0,0.1,rbf,,1,Benign,35248,2,2,37,8,3
+0,7,10.0,0.1,rbf,,1,Bot,5,497,0,0,0,0
+0,7,10.0,0.1,rbf,,1,Brute Force,1,0,329,0,0,0
+0,7,10.0,0.1,rbf,,1,DoS,27,0,0,3349,0,0
+0,7,10.0,0.1,rbf,,1,Infiltration,478,0,0,3,7,0
+0,7,10.0,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+0,7,10.0,0.1,rbf,,2,Benign,35259,1,2,24,11,3
+0,7,10.0,0.1,rbf,,2,Bot,6,496,0,0,0,0
+0,7,10.0,0.1,rbf,,2,Brute Force,3,0,327,0,0,0
+0,7,10.0,0.1,rbf,,2,DoS,29,0,0,3347,0,0
+0,7,10.0,0.1,rbf,,2,Infiltration,480,0,0,2,6,0
+0,7,10.0,0.1,rbf,,2,SQL Injection,1,0,0,0,0,3
+0,7,10.0,0.1,rbf,,3,Benign,35236,2,0,47,9,6
+0,7,10.0,0.1,rbf,,3,Bot,3,499,0,0,0,0
+0,7,10.0,0.1,rbf,,3,Brute Force,1,0,328,0,0,1
+0,7,10.0,0.1,rbf,,3,DoS,25,0,0,3351,0,0
+0,7,10.0,0.1,rbf,,3,Infiltration,481,0,0,1,6,0
+0,7,10.0,0.1,rbf,,3,SQL Injection,1,0,0,0,0,3
+0,7,10.0,0.1,rbf,,4,Benign,35235,2,2,43,10,8
+0,7,10.0,0.1,rbf,,4,Bot,4,498,0,0,0,0
+0,7,10.0,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+0,7,10.0,0.1,rbf,,4,DoS,22,0,0,3354,0,0
+0,7,10.0,0.1,rbf,,4,Infiltration,480,0,0,0,8,0
+0,7,10.0,0.1,rbf,,4,SQL Injection,3,0,0,0,0,1
+1,5,10.0,0.1,rbf,,0,Benign,35243,1,0,37,12,7
+1,5,10.0,0.1,rbf,,0,Bot,6,496,0,0,0,0
+1,5,10.0,0.1,rbf,,0,Brute Force,2,0,327,1,0,0
+1,5,10.0,0.1,rbf,,0,DoS,36,0,0,3340,0,0
+1,5,10.0,0.1,rbf,,0,Infiltration,478,0,0,1,7,2
+1,5,10.0,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+1,5,10.0,0.1,rbf,,1,Benign,35248,2,0,38,7,5
+1,5,10.0,0.1,rbf,,1,Bot,5,497,0,0,0,0
+1,5,10.0,0.1,rbf,,1,Brute Force,1,0,329,0,0,0
+1,5,10.0,0.1,rbf,,1,DoS,27,0,0,3349,0,0
+1,5,10.0,0.1,rbf,,1,Infiltration,478,0,0,3,7,0
+1,5,10.0,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+1,5,10.0,0.1,rbf,,2,Benign,35258,1,2,24,11,4
+1,5,10.0,0.1,rbf,,2,Bot,6,496,0,0,0,0
+1,5,10.0,0.1,rbf,,2,Brute Force,3,0,327,0,0,0
+1,5,10.0,0.1,rbf,,2,DoS,29,0,0,3347,0,0
+1,5,10.0,0.1,rbf,,2,Infiltration,480,0,0,2,6,0
+1,5,10.0,0.1,rbf,,2,SQL Injection,1,0,0,0,0,3
+1,5,10.0,0.1,rbf,,3,Benign,35232,2,0,47,9,10
+1,5,10.0,0.1,rbf,,3,Bot,3,499,0,0,0,0
+1,5,10.0,0.1,rbf,,3,Brute Force,1,0,328,0,0,1
+1,5,10.0,0.1,rbf,,3,DoS,25,0,0,3351,0,0
+1,5,10.0,0.1,rbf,,3,Infiltration,481,0,0,1,6,0
+1,5,10.0,0.1,rbf,,3,SQL Injection,1,0,0,0,0,3
+1,5,10.0,0.1,rbf,,4,Benign,35237,2,2,43,8,8
+1,5,10.0,0.1,rbf,,4,Bot,4,498,0,0,0,0
+1,5,10.0,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+1,5,10.0,0.1,rbf,,4,DoS,22,0,0,3354,0,0
+1,5,10.0,0.1,rbf,,4,Infiltration,486,0,0,0,2,0
+1,5,10.0,0.1,rbf,,4,SQL Injection,3,0,0,0,0,1
+2,7,1.0,0.1,rbf,,0,Benign,35243,1,2,47,2,5
+2,7,1.0,0.1,rbf,,0,Bot,6,496,0,0,0,0
+2,7,1.0,0.1,rbf,,0,Brute Force,4,0,324,1,0,1
+2,7,1.0,0.1,rbf,,0,DoS,28,0,0,3348,0,0
+2,7,1.0,0.1,rbf,,0,Infiltration,485,1,0,1,1,0
+2,7,1.0,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+2,7,1.0,0.1,rbf,,1,Benign,35243,5,3,38,0,11
+2,7,1.0,0.1,rbf,,1,Bot,5,497,0,0,0,0
+2,7,1.0,0.1,rbf,,1,Brute Force,1,0,328,0,0,1
+2,7,1.0,0.1,rbf,,1,DoS,22,0,0,3354,0,0
+2,7,1.0,0.1,rbf,,1,Infiltration,485,0,0,3,0,0
+2,7,1.0,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+2,7,1.0,0.1,rbf,,2,Benign,35251,2,3,29,1,14
+2,7,1.0,0.1,rbf,,2,Bot,7,495,0,0,0,0
+2,7,1.0,0.1,rbf,,2,Brute Force,4,0,326,0,0,0
+2,7,1.0,0.1,rbf,,2,DoS,31,0,0,3345,0,0
+2,7,1.0,0.1,rbf,,2,Infiltration,484,0,0,3,1,0
+2,7,1.0,0.1,rbf,,2,SQL Injection,2,0,0,0,0,2
+2,7,1.0,0.1,rbf,,3,Benign,35235,4,0,54,1,6
+2,7,1.0,0.1,rbf,,3,Bot,4,498,0,0,0,0
+2,7,1.0,0.1,rbf,,3,Brute Force,3,0,326,0,0,1
+2,7,1.0,0.1,rbf,,3,DoS,19,0,0,3357,0,0
+2,7,1.0,0.1,rbf,,3,Infiltration,486,0,0,1,1,0
+2,7,1.0,0.1,rbf,,3,SQL Injection,1,0,0,0,0,3
+2,7,1.0,0.1,rbf,,4,Benign,35229,3,2,53,2,11
+2,7,1.0,0.1,rbf,,4,Bot,5,497,0,0,0,0
+2,7,1.0,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+2,7,1.0,0.1,rbf,,4,DoS,21,0,0,3355,0,0
+2,7,1.0,0.1,rbf,,4,Infiltration,487,0,0,0,1,0
+2,7,1.0,0.1,rbf,,4,SQL Injection,4,0,0,0,0,0
+3,7,1.0,scale,rbf,,0,Benign,35017,2,13,263,0,5
+3,7,1.0,scale,rbf,,0,Bot,3,496,0,3,0,0
+3,7,1.0,scale,rbf,,0,Brute Force,4,0,324,2,0,0
+3,7,1.0,scale,rbf,,0,DoS,16,0,0,3360,0,0
+3,7,1.0,scale,rbf,,0,Infiltration,483,1,0,4,0,0
+3,7,1.0,scale,rbf,,0,SQL Injection,3,0,0,0,0,1
+3,7,1.0,scale,rbf,,1,Benign,35002,5,8,282,0,3
+3,7,1.0,scale,rbf,,1,Bot,3,497,0,2,0,0
+3,7,1.0,scale,rbf,,1,Brute Force,3,0,327,0,0,0
+3,7,1.0,scale,rbf,,1,DoS,19,0,0,3357,0,0
+3,7,1.0,scale,rbf,,1,Infiltration,480,0,0,8,0,0
+3,7,1.0,scale,rbf,,1,SQL Injection,4,0,0,0,0,0
+3,7,1.0,scale,rbf,,2,Benign,35025,2,8,264,0,1
+3,7,1.0,scale,rbf,,2,Bot,4,495,0,3,0,0
+3,7,1.0,scale,rbf,,2,Brute Force,4,0,326,0,0,0
+3,7,1.0,scale,rbf,,2,DoS,20,0,0,3356,0,0
+3,7,1.0,scale,rbf,,2,Infiltration,482,0,0,6,0,0
+3,7,1.0,scale,rbf,,2,SQL Injection,2,0,0,0,0,2
+3,7,1.0,scale,rbf,,3,Benign,34989,4,8,297,2,0
+3,7,1.0,scale,rbf,,3,Bot,0,499,0,3,0,0
+3,7,1.0,scale,rbf,,3,Brute Force,4,0,326,0,0,0
+3,7,1.0,scale,rbf,,3,DoS,13,0,0,3363,0,0
+3,7,1.0,scale,rbf,,3,Infiltration,480,1,0,7,0,0
+3,7,1.0,scale,rbf,,3,SQL Injection,3,0,0,0,0,1
+3,7,1.0,scale,rbf,,4,Benign,34994,3,6,295,0,2
+3,7,1.0,scale,rbf,,4,Bot,3,497,0,2,0,0
+3,7,1.0,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+3,7,1.0,scale,rbf,,4,DoS,18,0,0,3358,0,0
+3,7,1.0,scale,rbf,,4,Infiltration,479,0,0,9,0,0
+3,7,1.0,scale,rbf,,4,SQL Injection,4,0,0,0,0,0
+4,5,1.0,0.1,rbf,,0,Benign,35234,1,2,47,2,14
+4,5,1.0,0.1,rbf,,0,Bot,6,496,0,0,0,0
+4,5,1.0,0.1,rbf,,0,Brute Force,3,0,325,1,0,1
+4,5,1.0,0.1,rbf,,0,DoS,28,0,0,3348,0,0
+4,5,1.0,0.1,rbf,,0,Infiltration,485,1,0,1,1,0
+4,5,1.0,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+4,5,1.0,0.1,rbf,,1,Benign,35241,5,3,38,0,13
+4,5,1.0,0.1,rbf,,1,Bot,5,497,0,0,0,0
+4,5,1.0,0.1,rbf,,1,Brute Force,2,0,327,0,0,1
+4,5,1.0,0.1,rbf,,1,DoS,22,0,0,3354,0,0
+4,5,1.0,0.1,rbf,,1,Infiltration,485,0,0,3,0,0
+4,5,1.0,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+4,5,1.0,0.1,rbf,,2,Benign,35243,2,1,29,1,24
+4,5,1.0,0.1,rbf,,2,Bot,7,495,0,0,0,0
+4,5,1.0,0.1,rbf,,2,Brute Force,3,0,327,0,0,0
+4,5,1.0,0.1,rbf,,2,DoS,31,0,0,3345,0,0
+4,5,1.0,0.1,rbf,,2,Infiltration,483,0,0,3,1,1
+4,5,1.0,0.1,rbf,,2,SQL Injection,1,0,0,0,0,3
+4,5,1.0,0.1,rbf,,3,Benign,35232,4,0,54,1,9
+4,5,1.0,0.1,rbf,,3,Bot,4,498,0,0,0,0
+4,5,1.0,0.1,rbf,,3,Brute Force,3,0,326,0,0,1
+4,5,1.0,0.1,rbf,,3,DoS,19,0,0,3357,0,0
+4,5,1.0,0.1,rbf,,3,Infiltration,486,0,0,1,1,0
+4,5,1.0,0.1,rbf,,3,SQL Injection,1,0,0,0,0,3
+4,5,1.0,0.1,rbf,,4,Benign,35231,3,2,53,2,9
+4,5,1.0,0.1,rbf,,4,Bot,5,497,0,0,0,0
+4,5,1.0,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+4,5,1.0,0.1,rbf,,4,DoS,21,0,0,3355,0,0
+4,5,1.0,0.1,rbf,,4,Infiltration,487,0,0,0,1,0
+4,5,1.0,0.1,rbf,,4,SQL Injection,3,0,0,0,0,1
+5,3,10.0,0.1,rbf,,0,Benign,35198,1,0,37,11,53
+5,3,10.0,0.1,rbf,,0,Bot,6,496,0,0,0,0
+5,3,10.0,0.1,rbf,,0,Brute Force,2,0,327,1,0,0
+5,3,10.0,0.1,rbf,,0,DoS,36,0,0,3340,0,0
+5,3,10.0,0.1,rbf,,0,Infiltration,480,0,0,1,7,0
+5,3,10.0,0.1,rbf,,0,SQL Injection,2,0,0,0,0,2
+5,3,10.0,0.1,rbf,,1,Benign,35183,2,1,38,6,70
+5,3,10.0,0.1,rbf,,1,Bot,5,497,0,0,0,0
+5,3,10.0,0.1,rbf,,1,Brute Force,1,0,329,0,0,0
+5,3,10.0,0.1,rbf,,1,DoS,27,0,0,3349,0,0
+5,3,10.0,0.1,rbf,,1,Infiltration,477,0,0,3,7,1
+5,3,10.0,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+5,3,10.0,0.1,rbf,,2,Benign,35197,1,2,24,13,63
+5,3,10.0,0.1,rbf,,2,Bot,6,496,0,0,0,0
+5,3,10.0,0.1,rbf,,2,Brute Force,3,0,327,0,0,0
+5,3,10.0,0.1,rbf,,2,DoS,29,0,0,3347,0,0
+5,3,10.0,0.1,rbf,,2,Infiltration,478,0,0,2,8,0
+5,3,10.0,0.1,rbf,,2,SQL Injection,1,0,0,0,0,3
+5,3,10.0,0.1,rbf,,3,Benign,35225,2,1,47,9,16
+5,3,10.0,0.1,rbf,,3,Bot,3,499,0,0,0,0
+5,3,10.0,0.1,rbf,,3,Brute Force,1,0,328,0,0,1
+5,3,10.0,0.1,rbf,,3,DoS,25,0,0,3351,0,0
+5,3,10.0,0.1,rbf,,3,Infiltration,480,0,0,1,6,1
+5,3,10.0,0.1,rbf,,3,SQL Injection,1,0,0,0,0,3
+5,3,10.0,0.1,rbf,,4,Benign,35238,2,2,43,8,7
+5,3,10.0,0.1,rbf,,4,Bot,4,498,0,0,0,0
+5,3,10.0,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+5,3,10.0,0.1,rbf,,4,DoS,22,0,0,3354,0,0
+5,3,10.0,0.1,rbf,,4,Infiltration,486,0,0,0,2,0
+5,3,10.0,0.1,rbf,,4,SQL Injection,2,0,0,0,0,2
+6,7,0.1,scale,rbf,,0,Benign,35021,3,17,259,0,0
+6,7,0.1,scale,rbf,,0,Bot,22,480,0,0,0,0
+6,7,0.1,scale,rbf,,0,Brute Force,4,0,324,2,0,0
+6,7,0.1,scale,rbf,,0,DoS,159,0,22,3195,0,0
+6,7,0.1,scale,rbf,,0,Infiltration,483,1,0,4,0,0
+6,7,0.1,scale,rbf,,0,SQL Injection,2,0,0,0,0,2
+6,7,0.1,scale,rbf,,1,Benign,35007,6,10,277,0,0
+6,7,0.1,scale,rbf,,1,Bot,31,471,0,0,0,0
+6,7,0.1,scale,rbf,,1,Brute Force,3,0,327,0,0,0
+6,7,0.1,scale,rbf,,1,DoS,170,0,23,3183,0,0
+6,7,0.1,scale,rbf,,1,Infiltration,478,0,1,9,0,0
+6,7,0.1,scale,rbf,,1,SQL Injection,4,0,0,0,0,0
+6,7,0.1,scale,rbf,,2,Benign,35011,15,10,264,0,0
+6,7,0.1,scale,rbf,,2,Bot,26,476,0,0,0,0
+6,7,0.1,scale,rbf,,2,Brute Force,4,0,326,0,0,0
+6,7,0.1,scale,rbf,,2,DoS,154,0,20,3202,0,0
+6,7,0.1,scale,rbf,,2,Infiltration,482,1,2,3,0,0
+6,7,0.1,scale,rbf,,2,SQL Injection,3,0,0,0,0,1
+6,7,0.1,scale,rbf,,3,Benign,34976,11,13,300,0,0
+6,7,0.1,scale,rbf,,3,Bot,17,485,0,0,0,0
+6,7,0.1,scale,rbf,,3,Brute Force,4,0,326,0,0,0
+6,7,0.1,scale,rbf,,3,DoS,148,0,22,3206,0,0
+6,7,0.1,scale,rbf,,3,Infiltration,480,0,0,8,0,0
+6,7,0.1,scale,rbf,,3,SQL Injection,3,0,0,0,0,1
+6,7,0.1,scale,rbf,,4,Benign,34991,14,12,283,0,0
+6,7,0.1,scale,rbf,,4,Bot,19,483,0,0,0,0
+6,7,0.1,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+6,7,0.1,scale,rbf,,4,DoS,158,0,28,3190,0,0
+6,7,0.1,scale,rbf,,4,Infiltration,478,1,0,9,0,0
+6,7,0.1,scale,rbf,,4,SQL Injection,4,0,0,0,0,0
+7,3,0.1,scale,rbf,,0,Benign,35009,15,17,259,0,0
+7,3,0.1,scale,rbf,,0,Bot,22,480,0,0,0,0
+7,3,0.1,scale,rbf,,0,Brute Force,4,0,324,2,0,0
+7,3,0.1,scale,rbf,,0,DoS,159,0,22,3195,0,0
+7,3,0.1,scale,rbf,,0,Infiltration,483,1,0,4,0,0
+7,3,0.1,scale,rbf,,0,SQL Injection,2,0,0,0,0,2
+7,3,0.1,scale,rbf,,1,Benign,35007,6,10,277,0,0
+7,3,0.1,scale,rbf,,1,Bot,31,471,0,0,0,0
+7,3,0.1,scale,rbf,,1,Brute Force,3,0,327,0,0,0
+7,3,0.1,scale,rbf,,1,DoS,170,0,23,3183,0,0
+7,3,0.1,scale,rbf,,1,Infiltration,478,0,1,9,0,0
+7,3,0.1,scale,rbf,,1,SQL Injection,4,0,0,0,0,0
+7,3,0.1,scale,rbf,,2,Benign,35011,15,10,264,0,0
+7,3,0.1,scale,rbf,,2,Bot,26,476,0,0,0,0
+7,3,0.1,scale,rbf,,2,Brute Force,4,0,326,0,0,0
+7,3,0.1,scale,rbf,,2,DoS,154,0,20,3202,0,0
+7,3,0.1,scale,rbf,,2,Infiltration,482,1,2,3,0,0
+7,3,0.1,scale,rbf,,2,SQL Injection,3,0,0,0,0,1
+7,3,0.1,scale,rbf,,3,Benign,34974,13,13,300,0,0
+7,3,0.1,scale,rbf,,3,Bot,17,485,0,0,0,0
+7,3,0.1,scale,rbf,,3,Brute Force,4,0,326,0,0,0
+7,3,0.1,scale,rbf,,3,DoS,148,0,22,3206,0,0
+7,3,0.1,scale,rbf,,3,Infiltration,480,0,0,8,0,0
+7,3,0.1,scale,rbf,,3,SQL Injection,3,0,0,0,0,1
+7,3,0.1,scale,rbf,,4,Benign,34950,55,12,283,0,0
+7,3,0.1,scale,rbf,,4,Bot,19,483,0,0,0,0
+7,3,0.1,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+7,3,0.1,scale,rbf,,4,DoS,158,0,28,3190,0,0
+7,3,0.1,scale,rbf,,4,Infiltration,477,2,0,9,0,0
+7,3,0.1,scale,rbf,,4,SQL Injection,4,0,0,0,0,0
+8,5,1.0,scale,rbf,,0,Benign,35008,2,13,263,0,14
+8,5,1.0,scale,rbf,,0,Bot,3,496,0,3,0,0
+8,5,1.0,scale,rbf,,0,Brute Force,4,0,324,2,0,0
+8,5,1.0,scale,rbf,,0,DoS,16,0,0,3360,0,0
+8,5,1.0,scale,rbf,,0,Infiltration,483,1,0,4,0,0
+8,5,1.0,scale,rbf,,0,SQL Injection,3,0,0,0,0,1
+8,5,1.0,scale,rbf,,1,Benign,35005,5,8,282,0,0
+8,5,1.0,scale,rbf,,1,Bot,3,497,0,2,0,0
+8,5,1.0,scale,rbf,,1,Brute Force,3,0,327,0,0,0
+8,5,1.0,scale,rbf,,1,DoS,19,0,0,3357,0,0
+8,5,1.0,scale,rbf,,1,Infiltration,480,0,0,8,0,0
+8,5,1.0,scale,rbf,,1,SQL Injection,4,0,0,0,0,0
+8,5,1.0,scale,rbf,,2,Benign,35024,2,7,264,0,3
+8,5,1.0,scale,rbf,,2,Bot,4,495,0,3,0,0
+8,5,1.0,scale,rbf,,2,Brute Force,4,0,326,0,0,0
+8,5,1.0,scale,rbf,,2,DoS,20,0,0,3356,0,0
+8,5,1.0,scale,rbf,,2,Infiltration,482,0,0,6,0,0
+8,5,1.0,scale,rbf,,2,SQL Injection,2,0,0,0,0,2
+8,5,1.0,scale,rbf,,3,Benign,34987,4,10,297,2,0
+8,5,1.0,scale,rbf,,3,Bot,0,499,0,3,0,0
+8,5,1.0,scale,rbf,,3,Brute Force,4,0,326,0,0,0
+8,5,1.0,scale,rbf,,3,DoS,13,0,0,3363,0,0
+8,5,1.0,scale,rbf,,3,Infiltration,480,1,0,7,0,0
+8,5,1.0,scale,rbf,,3,SQL Injection,3,0,0,0,0,1
+8,5,1.0,scale,rbf,,4,Benign,34996,3,6,295,0,0
+8,5,1.0,scale,rbf,,4,Bot,3,497,0,2,0,0
+8,5,1.0,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+8,5,1.0,scale,rbf,,4,DoS,18,0,0,3358,0,0
+8,5,1.0,scale,rbf,,4,Infiltration,479,0,0,9,0,0
+8,5,1.0,scale,rbf,,4,SQL Injection,4,0,0,0,0,0
+9,3,1.0,0.1,rbf,,0,Benign,35235,1,2,47,2,13
+9,3,1.0,0.1,rbf,,0,Bot,6,496,0,0,0,0
+9,3,1.0,0.1,rbf,,0,Brute Force,2,0,326,1,0,1
+9,3,1.0,0.1,rbf,,0,DoS,28,0,0,3348,0,0
+9,3,1.0,0.1,rbf,,0,Infiltration,485,1,0,1,1,0
+9,3,1.0,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+9,3,1.0,0.1,rbf,,1,Benign,35148,5,3,38,0,106
+9,3,1.0,0.1,rbf,,1,Bot,5,497,0,0,0,0
+9,3,1.0,0.1,rbf,,1,Brute Force,2,0,328,0,0,0
+9,3,1.0,0.1,rbf,,1,DoS,22,0,0,3354,0,0
+9,3,1.0,0.1,rbf,,1,Infiltration,481,0,0,3,0,4
+9,3,1.0,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+9,3,1.0,0.1,rbf,,2,Benign,35240,2,3,29,1,25
+9,3,1.0,0.1,rbf,,2,Bot,7,495,0,0,0,0
+9,3,1.0,0.1,rbf,,2,Brute Force,3,0,327,0,0,0
+9,3,1.0,0.1,rbf,,2,DoS,31,0,0,3345,0,0
+9,3,1.0,0.1,rbf,,2,Infiltration,483,0,0,3,1,1
+9,3,1.0,0.1,rbf,,2,SQL Injection,1,0,0,0,0,3
+9,3,1.0,0.1,rbf,,3,Benign,35220,4,0,54,1,21
+9,3,1.0,0.1,rbf,,3,Bot,4,498,0,0,0,0
+9,3,1.0,0.1,rbf,,3,Brute Force,3,0,326,0,0,1
+9,3,1.0,0.1,rbf,,3,DoS,19,0,0,3357,0,0
+9,3,1.0,0.1,rbf,,3,Infiltration,486,0,0,1,1,0
+9,3,1.0,0.1,rbf,,3,SQL Injection,1,0,0,0,0,3
+9,3,1.0,0.1,rbf,,4,Benign,35232,3,2,53,2,8
+9,3,1.0,0.1,rbf,,4,Bot,5,497,0,0,0,0
+9,3,1.0,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+9,3,1.0,0.1,rbf,,4,DoS,21,0,0,3355,0,0
+9,3,1.0,0.1,rbf,,4,Infiltration,487,0,0,0,1,0
+9,3,1.0,0.1,rbf,,4,SQL Injection,3,0,0,0,0,1
+10,7,0.1,0.1,rbf,,0,Benign,35017,2,12,250,0,19
+10,7,0.1,0.1,rbf,,0,Bot,7,495,0,0,0,0
+10,7,0.1,0.1,rbf,,0,Brute Force,4,0,324,2,0,0
+10,7,0.1,0.1,rbf,,0,DoS,30,0,2,3344,0,0
+10,7,0.1,0.1,rbf,,0,Infiltration,483,1,0,4,0,0
+10,7,0.1,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+10,7,0.1,0.1,rbf,,1,Benign,35016,5,7,268,0,4
+10,7,0.1,0.1,rbf,,1,Bot,8,494,0,0,0,0
+10,7,0.1,0.1,rbf,,1,Brute Force,3,0,327,0,0,0
+10,7,0.1,0.1,rbf,,1,DoS,35,0,1,3340,0,0
+10,7,0.1,0.1,rbf,,1,Infiltration,478,0,0,10,0,0
+10,7,0.1,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+10,7,0.1,0.1,rbf,,2,Benign,35019,2,8,258,0,13
+10,7,0.1,0.1,rbf,,2,Bot,8,494,0,0,0,0
+10,7,0.1,0.1,rbf,,2,Brute Force,4,0,326,0,0,0
+10,7,0.1,0.1,rbf,,2,DoS,32,0,1,3343,0,0
+10,7,0.1,0.1,rbf,,2,Infiltration,482,0,0,5,0,1
+10,7,0.1,0.1,rbf,,2,SQL Injection,2,0,0,0,0,2
+10,7,0.1,0.1,rbf,,3,Benign,34998,5,7,290,0,0
+10,7,0.1,0.1,rbf,,3,Bot,4,497,0,1,0,0
+10,7,0.1,0.1,rbf,,3,Brute Force,4,0,326,0,0,0
+10,7,0.1,0.1,rbf,,3,DoS,26,0,2,3348,0,0
+10,7,0.1,0.1,rbf,,3,Infiltration,479,0,0,9,0,0
+10,7,0.1,0.1,rbf,,3,SQL Injection,3,0,0,0,0,1
+10,7,0.1,0.1,rbf,,4,Benign,34999,3,9,279,0,10
+10,7,0.1,0.1,rbf,,4,Bot,6,496,0,0,0,0
+10,7,0.1,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+10,7,0.1,0.1,rbf,,4,DoS,33,0,6,3337,0,0
+10,7,0.1,0.1,rbf,,4,Infiltration,480,0,0,8,0,0
+10,7,0.1,0.1,rbf,,4,SQL Injection,4,0,0,0,0,0
+11,3,10.0,scale,rbf,,0,Benign,35222,1,2,57,2,16
+11,3,10.0,scale,rbf,,0,Bot,6,496,0,0,0,0
+11,3,10.0,scale,rbf,,0,Brute Force,3,0,326,1,0,0
+11,3,10.0,scale,rbf,,0,DoS,22,0,0,3354,0,0
+11,3,10.0,scale,rbf,,0,Infiltration,483,0,0,1,2,2
+11,3,10.0,scale,rbf,,0,SQL Injection,3,0,0,0,0,1
+11,3,10.0,scale,rbf,,1,Benign,35133,4,3,51,0,109
+11,3,10.0,scale,rbf,,1,Bot,5,497,0,0,0,0
+11,3,10.0,scale,rbf,,1,Brute Force,2,0,328,0,0,0
+11,3,10.0,scale,rbf,,1,DoS,18,0,0,3358,0,0
+11,3,10.0,scale,rbf,,1,Infiltration,482,0,0,3,0,3
+11,3,10.0,scale,rbf,,1,SQL Injection,3,0,0,0,0,1
+11,3,10.0,scale,rbf,,2,Benign,35236,2,6,31,2,23
+11,3,10.0,scale,rbf,,2,Bot,7,495,0,0,0,0
+11,3,10.0,scale,rbf,,2,Brute Force,3,0,327,0,0,0
+11,3,10.0,scale,rbf,,2,DoS,21,0,0,3355,0,0
+11,3,10.0,scale,rbf,,2,Infiltration,484,0,0,3,1,0
+11,3,10.0,scale,rbf,,2,SQL Injection,1,0,0,0,0,3
+11,3,10.0,scale,rbf,,3,Benign,35210,5,1,57,2,25
+11,3,10.0,scale,rbf,,3,Bot,3,499,0,0,0,0
+11,3,10.0,scale,rbf,,3,Brute Force,3,0,326,0,0,1
+11,3,10.0,scale,rbf,,3,DoS,17,0,0,3359,0,0
+11,3,10.0,scale,rbf,,3,Infiltration,486,0,0,1,1,0
+11,3,10.0,scale,rbf,,3,SQL Injection,1,0,0,0,0,3
+11,3,10.0,scale,rbf,,4,Benign,35222,3,4,61,0,10
+11,3,10.0,scale,rbf,,4,Bot,5,497,0,0,0,0
+11,3,10.0,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+11,3,10.0,scale,rbf,,4,DoS,16,0,0,3360,0,0
+11,3,10.0,scale,rbf,,4,Infiltration,488,0,0,0,0,0
+11,3,10.0,scale,rbf,,4,SQL Injection,3,0,0,0,0,1
+12,5,0.1,0.1,rbf,,0,Benign,35017,2,12,250,0,19
+12,5,0.1,0.1,rbf,,0,Bot,7,495,0,0,0,0
+12,5,0.1,0.1,rbf,,0,Brute Force,4,0,324,2,0,0
+12,5,0.1,0.1,rbf,,0,DoS,30,0,2,3344,0,0
+12,5,0.1,0.1,rbf,,0,Infiltration,483,1,0,4,0,0
+12,5,0.1,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+12,5,0.1,0.1,rbf,,1,Benign,35014,5,7,268,0,6
+12,5,0.1,0.1,rbf,,1,Bot,8,494,0,0,0,0
+12,5,0.1,0.1,rbf,,1,Brute Force,3,0,327,0,0,0
+12,5,0.1,0.1,rbf,,1,DoS,35,0,1,3340,0,0
+12,5,0.1,0.1,rbf,,1,Infiltration,478,0,0,10,0,0
+12,5,0.1,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+12,5,0.1,0.1,rbf,,2,Benign,35017,2,8,258,0,15
+12,5,0.1,0.1,rbf,,2,Bot,8,494,0,0,0,0
+12,5,0.1,0.1,rbf,,2,Brute Force,4,0,326,0,0,0
+12,5,0.1,0.1,rbf,,2,DoS,32,0,1,3343,0,0
+12,5,0.1,0.1,rbf,,2,Infiltration,482,0,0,5,0,1
+12,5,0.1,0.1,rbf,,2,SQL Injection,2,0,0,0,0,2
+12,5,0.1,0.1,rbf,,3,Benign,34998,5,7,290,0,0
+12,5,0.1,0.1,rbf,,3,Bot,4,497,0,1,0,0
+12,5,0.1,0.1,rbf,,3,Brute Force,3,0,326,0,0,1
+12,5,0.1,0.1,rbf,,3,DoS,26,0,2,3348,0,0
+12,5,0.1,0.1,rbf,,3,Infiltration,479,0,0,9,0,0
+12,5,0.1,0.1,rbf,,3,SQL Injection,3,0,0,0,0,1
+12,5,0.1,0.1,rbf,,4,Benign,34998,3,9,279,0,11
+12,5,0.1,0.1,rbf,,4,Bot,6,496,0,0,0,0
+12,5,0.1,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+12,5,0.1,0.1,rbf,,4,DoS,33,0,6,3337,0,0
+12,5,0.1,0.1,rbf,,4,Infiltration,480,0,0,8,0,0
+12,5,0.1,0.1,rbf,,4,SQL Injection,4,0,0,0,0,0
+13,3,1.0,scale,rbf,,0,Benign,35005,2,13,263,0,17
+13,3,1.0,scale,rbf,,0,Bot,3,496,0,3,0,0
+13,3,1.0,scale,rbf,,0,Brute Force,4,0,324,2,0,0
+13,3,1.0,scale,rbf,,0,DoS,16,0,0,3360,0,0
+13,3,1.0,scale,rbf,,0,Infiltration,483,1,0,4,0,0
+13,3,1.0,scale,rbf,,0,SQL Injection,3,0,0,0,0,1
+13,3,1.0,scale,rbf,,1,Benign,35005,5,7,282,0,1
+13,3,1.0,scale,rbf,,1,Bot,3,497,0,2,0,0
+13,3,1.0,scale,rbf,,1,Brute Force,3,0,327,0,0,0
+13,3,1.0,scale,rbf,,1,DoS,19,0,0,3357,0,0
+13,3,1.0,scale,rbf,,1,Infiltration,480,0,0,8,0,0
+13,3,1.0,scale,rbf,,1,SQL Injection,4,0,0,0,0,0
+13,3,1.0,scale,rbf,,2,Benign,35009,2,8,264,0,17
+13,3,1.0,scale,rbf,,2,Bot,4,495,0,3,0,0
+13,3,1.0,scale,rbf,,2,Brute Force,4,0,326,0,0,0
+13,3,1.0,scale,rbf,,2,DoS,20,0,0,3356,0,0
+13,3,1.0,scale,rbf,,2,Infiltration,481,0,0,6,0,1
+13,3,1.0,scale,rbf,,2,SQL Injection,2,0,0,0,0,2
+13,3,1.0,scale,rbf,,3,Benign,34987,4,10,297,2,0
+13,3,1.0,scale,rbf,,3,Bot,0,499,0,3,0,0
+13,3,1.0,scale,rbf,,3,Brute Force,4,0,326,0,0,0
+13,3,1.0,scale,rbf,,3,DoS,13,0,0,3363,0,0
+13,3,1.0,scale,rbf,,3,Infiltration,480,1,0,7,0,0
+13,3,1.0,scale,rbf,,3,SQL Injection,3,0,0,0,0,1
+13,3,1.0,scale,rbf,,4,Benign,34989,3,6,295,0,7
+13,3,1.0,scale,rbf,,4,Bot,3,497,0,2,0,0
+13,3,1.0,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+13,3,1.0,scale,rbf,,4,DoS,18,0,0,3358,0,0
+13,3,1.0,scale,rbf,,4,Infiltration,479,0,0,9,0,0
+13,3,1.0,scale,rbf,,4,SQL Injection,4,0,0,0,0,0
+14,3,0.1,0.1,rbf,,0,Benign,35022,2,11,250,0,15
+14,3,0.1,0.1,rbf,,0,Bot,7,495,0,0,0,0
+14,3,0.1,0.1,rbf,,0,Brute Force,4,0,324,2,0,0
+14,3,0.1,0.1,rbf,,0,DoS,30,0,2,3344,0,0
+14,3,0.1,0.1,rbf,,0,Infiltration,483,1,0,4,0,0
+14,3,0.1,0.1,rbf,,0,SQL Injection,3,0,0,0,0,1
+14,3,0.1,0.1,rbf,,1,Benign,35007,5,7,268,0,13
+14,3,0.1,0.1,rbf,,1,Bot,8,494,0,0,0,0
+14,3,0.1,0.1,rbf,,1,Brute Force,3,0,327,0,0,0
+14,3,0.1,0.1,rbf,,1,DoS,35,0,1,3340,0,0
+14,3,0.1,0.1,rbf,,1,Infiltration,478,0,0,10,0,0
+14,3,0.1,0.1,rbf,,1,SQL Injection,3,0,0,0,0,1
+14,3,0.1,0.1,rbf,,2,Benign,35018,2,8,258,0,14
+14,3,0.1,0.1,rbf,,2,Bot,8,494,0,0,0,0
+14,3,0.1,0.1,rbf,,2,Brute Force,4,0,326,0,0,0
+14,3,0.1,0.1,rbf,,2,DoS,32,0,1,3343,0,0
+14,3,0.1,0.1,rbf,,2,Infiltration,482,0,0,5,0,1
+14,3,0.1,0.1,rbf,,2,SQL Injection,2,0,0,0,0,2
+14,3,0.1,0.1,rbf,,3,Benign,34989,5,7,290,0,9
+14,3,0.1,0.1,rbf,,3,Bot,4,497,0,1,0,0
+14,3,0.1,0.1,rbf,,3,Brute Force,3,0,326,0,0,1
+14,3,0.1,0.1,rbf,,3,DoS,26,0,2,3348,0,0
+14,3,0.1,0.1,rbf,,3,Infiltration,479,0,0,9,0,0
+14,3,0.1,0.1,rbf,,3,SQL Injection,2,0,0,0,0,2
+14,3,0.1,0.1,rbf,,4,Benign,34996,3,9,279,0,13
+14,3,0.1,0.1,rbf,,4,Bot,6,496,0,0,0,0
+14,3,0.1,0.1,rbf,,4,Brute Force,0,0,330,0,0,0
+14,3,0.1,0.1,rbf,,4,DoS,33,0,6,3337,0,0
+14,3,0.1,0.1,rbf,,4,Infiltration,480,0,0,8,0,0
+14,3,0.1,0.1,rbf,,4,SQL Injection,4,0,0,0,0,0
+15,5,0.1,scale,rbf,,0,Benign,35021,3,17,259,0,0
+15,5,0.1,scale,rbf,,0,Bot,22,480,0,0,0,0
+15,5,0.1,scale,rbf,,0,Brute Force,3,0,324,2,0,1
+15,5,0.1,scale,rbf,,0,DoS,159,0,22,3195,0,0
+15,5,0.1,scale,rbf,,0,Infiltration,483,1,0,4,0,0
+15,5,0.1,scale,rbf,,0,SQL Injection,2,0,0,0,0,2
+15,5,0.1,scale,rbf,,1,Benign,35007,6,10,277,0,0
+15,5,0.1,scale,rbf,,1,Bot,31,471,0,0,0,0
+15,5,0.1,scale,rbf,,1,Brute Force,3,0,327,0,0,0
+15,5,0.1,scale,rbf,,1,DoS,170,0,23,3183,0,0
+15,5,0.1,scale,rbf,,1,Infiltration,478,0,1,9,0,0
+15,5,0.1,scale,rbf,,1,SQL Injection,4,0,0,0,0,0
+15,5,0.1,scale,rbf,,2,Benign,35011,15,10,264,0,0
+15,5,0.1,scale,rbf,,2,Bot,26,476,0,0,0,0
+15,5,0.1,scale,rbf,,2,Brute Force,4,0,326,0,0,0
+15,5,0.1,scale,rbf,,2,DoS,154,0,20,3202,0,0
+15,5,0.1,scale,rbf,,2,Infiltration,482,1,2,3,0,0
+15,5,0.1,scale,rbf,,2,SQL Injection,4,0,0,0,0,0
+15,5,0.1,scale,rbf,,3,Benign,34974,13,13,300,0,0
+15,5,0.1,scale,rbf,,3,Bot,17,485,0,0,0,0
+15,5,0.1,scale,rbf,,3,Brute Force,4,0,326,0,0,0
+15,5,0.1,scale,rbf,,3,DoS,148,0,22,3206,0,0
+15,5,0.1,scale,rbf,,3,Infiltration,480,0,0,8,0,0
+15,5,0.1,scale,rbf,,3,SQL Injection,3,0,0,0,0,1
+15,5,0.1,scale,rbf,,4,Benign,35002,3,12,283,0,0
+15,5,0.1,scale,rbf,,4,Bot,19,483,0,0,0,0
+15,5,0.1,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+15,5,0.1,scale,rbf,,4,DoS,158,0,28,3190,0,0
+15,5,0.1,scale,rbf,,4,Infiltration,479,0,0,9,0,0
+15,5,0.1,scale,rbf,,4,SQL Injection,4,0,0,0,0,0
+16,3,10.0,,,LinearSVC(),0,Benign,34520,89,2,450,220,19
+16,3,10.0,,,LinearSVC(),0,Bot,4,498,0,0,0,0
+16,3,10.0,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+16,3,10.0,,,LinearSVC(),0,DoS,135,0,2,3229,10,0
+16,3,10.0,,,LinearSVC(),0,Infiltration,475,2,0,3,8,0
+16,3,10.0,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+16,3,10.0,,,LinearSVC(),1,Benign,34426,25,1,571,238,39
+16,3,10.0,,,LinearSVC(),1,Bot,4,498,0,0,0,0
+16,3,10.0,,,LinearSVC(),1,Brute Force,8,0,322,0,0,0
+16,3,10.0,,,LinearSVC(),1,DoS,139,0,0,3219,18,0
+16,3,10.0,,,LinearSVC(),1,Infiltration,471,1,0,13,2,1
+16,3,10.0,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+16,3,10.0,,,LinearSVC(),2,Benign,34459,16,1,523,218,83
+16,3,10.0,,,LinearSVC(),2,Bot,7,495,0,0,0,0
+16,3,10.0,,,LinearSVC(),2,Brute Force,3,0,326,1,0,0
+16,3,10.0,,,LinearSVC(),2,DoS,140,0,2,3216,18,0
+16,3,10.0,,,LinearSVC(),2,Infiltration,479,3,0,3,2,1
+16,3,10.0,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+16,3,10.0,,,LinearSVC(),3,Benign,34400,25,0,640,218,17
+16,3,10.0,,,LinearSVC(),3,Bot,4,498,0,0,0,0
+16,3,10.0,,,LinearSVC(),3,Brute Force,140,0,190,0,0,0
+16,3,10.0,,,LinearSVC(),3,DoS,112,0,0,3264,0,0
+16,3,10.0,,,LinearSVC(),3,Infiltration,471,2,0,14,1,0
+16,3,10.0,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+16,3,10.0,,,LinearSVC(),4,Benign,34465,44,2,594,150,45
+16,3,10.0,,,LinearSVC(),4,Bot,4,497,0,1,0,0
+16,3,10.0,,,LinearSVC(),4,Brute Force,0,0,330,0,0,0
+16,3,10.0,,,LinearSVC(),4,DoS,156,0,1,3219,0,0
+16,3,10.0,,,LinearSVC(),4,Infiltration,473,1,0,12,1,1
+16,3,10.0,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+17,3,1.0,,,LinearSVC(),0,Benign,34443,22,1,588,220,26
+17,3,1.0,,,LinearSVC(),0,Bot,4,496,0,2,0,0
+17,3,1.0,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+17,3,1.0,,,LinearSVC(),0,DoS,135,0,2,3239,0,0
+17,3,1.0,,,LinearSVC(),0,Infiltration,473,1,0,10,3,1
+17,3,1.0,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+17,3,1.0,,,LinearSVC(),1,Benign,34434,31,0,601,213,21
+17,3,1.0,,,LinearSVC(),1,Bot,4,497,0,1,0,0
+17,3,1.0,,,LinearSVC(),1,Brute Force,82,0,248,0,0,0
+17,3,1.0,,,LinearSVC(),1,DoS,110,0,0,3241,25,0
+17,3,1.0,,,LinearSVC(),1,Infiltration,474,1,0,11,2,0
+17,3,1.0,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+17,3,1.0,,,LinearSVC(),2,Benign,34443,44,1,581,218,13
+17,3,1.0,,,LinearSVC(),2,Bot,6,496,0,0,0,0
+17,3,1.0,,,LinearSVC(),2,Brute Force,68,0,261,1,0,0
+17,3,1.0,,,LinearSVC(),2,DoS,176,0,2,3192,6,0
+17,3,1.0,,,LinearSVC(),2,Infiltration,477,3,0,6,2,0
+17,3,1.0,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+17,3,1.0,,,LinearSVC(),3,Benign,34460,37,1,597,193,12
+17,3,1.0,,,LinearSVC(),3,Bot,4,498,0,0,0,0
+17,3,1.0,,,LinearSVC(),3,Brute Force,168,0,162,0,0,0
+17,3,1.0,,,LinearSVC(),3,DoS,133,0,0,3239,4,0
+17,3,1.0,,,LinearSVC(),3,Infiltration,470,2,0,14,2,0
+17,3,1.0,,,LinearSVC(),3,SQL Injection,3,0,0,0,0,1
+17,3,1.0,,,LinearSVC(),4,Benign,34514,42,0,615,108,21
+17,3,1.0,,,LinearSVC(),4,Bot,3,498,0,1,0,0
+17,3,1.0,,,LinearSVC(),4,Brute Force,0,0,330,0,0,0
+17,3,1.0,,,LinearSVC(),4,DoS,150,0,1,3225,0,0
+17,3,1.0,,,LinearSVC(),4,Infiltration,474,1,0,12,0,1
+17,3,1.0,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+18,7,1.0,,,LinearSVC(),0,Benign,34480,7,1,547,222,43
+18,7,1.0,,,LinearSVC(),0,Bot,4,496,0,2,0,0
+18,7,1.0,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+18,7,1.0,,,LinearSVC(),0,DoS,118,0,2,3242,14,0
+18,7,1.0,,,LinearSVC(),0,Infiltration,474,0,0,11,0,3
+18,7,1.0,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+18,7,1.0,,,LinearSVC(),1,Benign,34364,43,0,665,211,17
+18,7,1.0,,,LinearSVC(),1,Bot,4,497,0,1,0,0
+18,7,1.0,,,LinearSVC(),1,Brute Force,129,0,201,0,0,0
+18,7,1.0,,,LinearSVC(),1,DoS,93,0,0,3269,14,0
+18,7,1.0,,,LinearSVC(),1,Infiltration,475,1,0,11,1,0
+18,7,1.0,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+18,7,1.0,,,LinearSVC(),2,Benign,34510,31,1,579,153,26
+18,7,1.0,,,LinearSVC(),2,Bot,6,496,0,0,0,0
+18,7,1.0,,,LinearSVC(),2,Brute Force,3,0,326,1,0,0
+18,7,1.0,,,LinearSVC(),2,DoS,155,0,2,3219,0,0
+18,7,1.0,,,LinearSVC(),2,Infiltration,477,3,0,6,0,2
+18,7,1.0,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+18,7,1.0,,,LinearSVC(),3,Benign,34276,36,2,594,366,26
+18,7,1.0,,,LinearSVC(),3,Bot,4,498,0,0,0,0
+18,7,1.0,,,LinearSVC(),3,Brute Force,126,0,204,0,0,0
+18,7,1.0,,,LinearSVC(),3,DoS,106,0,0,3251,19,0
+18,7,1.0,,,LinearSVC(),3,Infiltration,471,2,0,12,0,3
+18,7,1.0,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+18,7,1.0,,,LinearSVC(),4,Benign,34515,8,1,606,108,62
+18,7,1.0,,,LinearSVC(),4,Bot,3,499,0,0,0,0
+18,7,1.0,,,LinearSVC(),4,Brute Force,0,0,330,0,0,0
+18,7,1.0,,,LinearSVC(),4,DoS,144,0,1,3231,0,0
+18,7,1.0,,,LinearSVC(),4,Infiltration,474,1,0,12,0,1
+18,7,1.0,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+19,3,0.1,,,LinearSVC(),0,Benign,34386,68,2,771,66,7
+19,3,0.1,,,LinearSVC(),0,Bot,4,495,0,3,0,0
+19,3,0.1,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+19,3,0.1,,,LinearSVC(),0,DoS,381,0,2,2993,0,0
+19,3,0.1,,,LinearSVC(),0,Infiltration,465,3,0,18,2,0
+19,3,0.1,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+19,3,0.1,,,LinearSVC(),1,Benign,34278,78,0,876,62,6
+19,3,0.1,,,LinearSVC(),1,Bot,4,494,0,4,0,0
+19,3,0.1,,,LinearSVC(),1,Brute Force,70,0,260,0,0,0
+19,3,0.1,,,LinearSVC(),1,DoS,387,0,0,2989,0,0
+19,3,0.1,,,LinearSVC(),1,Infiltration,459,3,0,24,2,0
+19,3,0.1,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+19,3,0.1,,,LinearSVC(),2,Benign,34314,92,2,829,58,5
+19,3,0.1,,,LinearSVC(),2,Bot,6,495,0,1,0,0
+19,3,0.1,,,LinearSVC(),2,Brute Force,107,0,222,1,0,0
+19,3,0.1,,,LinearSVC(),2,DoS,447,0,2,2927,0,0
+19,3,0.1,,,LinearSVC(),2,Infiltration,468,5,0,13,2,0
+19,3,0.1,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+19,3,0.1,,,LinearSVC(),3,Benign,34198,94,1,922,80,5
+19,3,0.1,,,LinearSVC(),3,Bot,1,497,0,4,0,0
+19,3,0.1,,,LinearSVC(),3,Brute Force,168,0,162,0,0,0
+19,3,0.1,,,LinearSVC(),3,DoS,225,0,0,3151,0,0
+19,3,0.1,,,LinearSVC(),3,Infiltration,460,3,0,24,1,0
+19,3,0.1,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+19,3,0.1,,,LinearSVC(),4,Benign,34245,112,1,876,60,6
+19,3,0.1,,,LinearSVC(),4,Bot,2,497,0,3,0,0
+19,3,0.1,,,LinearSVC(),4,Brute Force,0,0,330,0,0,0
+19,3,0.1,,,LinearSVC(),4,DoS,305,0,1,3070,0,0
+19,3,0.1,,,LinearSVC(),4,Infiltration,460,3,0,24,0,1
+19,3,0.1,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+20,5,10.0,,,LinearSVC(),0,Benign,34485,13,2,542,211,47
+20,5,10.0,,,LinearSVC(),0,Bot,4,496,0,2,0,0
+20,5,10.0,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+20,5,10.0,,,LinearSVC(),0,DoS,119,0,2,3227,28,0
+20,5,10.0,,,LinearSVC(),0,Infiltration,473,1,0,9,0,5
+20,5,10.0,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+20,5,10.0,,,LinearSVC(),1,Benign,34217,31,2,613,399,38
+20,5,10.0,,,LinearSVC(),1,Bot,4,498,0,0,0,0
+20,5,10.0,,,LinearSVC(),1,Brute Force,4,0,326,0,0,0
+20,5,10.0,,,LinearSVC(),1,DoS,100,0,0,3261,15,0
+20,5,10.0,,,LinearSVC(),1,Infiltration,472,1,0,11,0,4
+20,5,10.0,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+20,5,10.0,,,LinearSVC(),2,Benign,34456,29,0,537,243,35
+20,5,10.0,,,LinearSVC(),2,Bot,7,495,0,0,0,0
+20,5,10.0,,,LinearSVC(),2,Brute Force,6,0,323,1,0,0
+20,5,10.0,,,LinearSVC(),2,DoS,146,0,0,3217,13,0
+20,5,10.0,,,LinearSVC(),2,Infiltration,478,2,0,6,0,2
+20,5,10.0,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+20,5,10.0,,,LinearSVC(),3,Benign,34572,30,0,537,117,44
+20,5,10.0,,,LinearSVC(),3,Bot,3,499,0,0,0,0
+20,5,10.0,,,LinearSVC(),3,Brute Force,186,0,142,0,2,0
+20,5,10.0,,,LinearSVC(),3,DoS,109,0,0,3267,0,0
+20,5,10.0,,,LinearSVC(),3,Infiltration,472,2,0,9,0,5
+20,5,10.0,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+20,5,10.0,,,LinearSVC(),4,Benign,34469,4,0,603,159,65
+20,5,10.0,,,LinearSVC(),4,Bot,4,497,0,1,0,0
+20,5,10.0,,,LinearSVC(),4,Brute Force,115,0,215,0,0,0
+20,5,10.0,,,LinearSVC(),4,DoS,157,0,1,3218,0,0
+20,5,10.0,,,LinearSVC(),4,Infiltration,473,1,0,13,0,1
+20,5,10.0,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+21,5,0.1,,,LinearSVC(),0,Benign,34304,90,2,766,132,6
+21,5,0.1,,,LinearSVC(),0,Bot,4,495,0,3,0,0
+21,5,0.1,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+21,5,0.1,,,LinearSVC(),0,DoS,447,0,2,2927,0,0
+21,5,0.1,,,LinearSVC(),0,Infiltration,468,3,0,15,2,0
+21,5,0.1,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+21,5,0.1,,,LinearSVC(),1,Benign,34268,87,0,879,61,5
+21,5,0.1,,,LinearSVC(),1,Bot,4,494,0,4,0,0
+21,5,0.1,,,LinearSVC(),1,Brute Force,120,0,210,0,0,0
+21,5,0.1,,,LinearSVC(),1,DoS,354,0,0,3022,0,0
+21,5,0.1,,,LinearSVC(),1,Infiltration,461,3,0,23,1,0
+21,5,0.1,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+21,5,0.1,,,LinearSVC(),2,Benign,34304,78,1,852,62,3
+21,5,0.1,,,LinearSVC(),2,Bot,3,495,0,4,0,0
+21,5,0.1,,,LinearSVC(),2,Brute Force,148,0,181,1,0,0
+21,5,0.1,,,LinearSVC(),2,DoS,367,0,2,3007,0,0
+21,5,0.1,,,LinearSVC(),2,Infiltration,469,5,0,14,0,0
+21,5,0.1,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+21,5,0.1,,,LinearSVC(),3,Benign,34016,94,1,928,256,5
+21,5,0.1,,,LinearSVC(),3,Bot,1,497,0,4,0,0
+21,5,0.1,,,LinearSVC(),3,Brute Force,139,0,191,0,0,0
+21,5,0.1,,,LinearSVC(),3,DoS,314,0,0,3062,0,0
+21,5,0.1,,,LinearSVC(),3,Infiltration,459,3,0,24,2,0
+21,5,0.1,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+21,5,0.1,,,LinearSVC(),4,Benign,34260,119,1,857,60,3
+21,5,0.1,,,LinearSVC(),4,Bot,3,497,0,2,0,0
+21,5,0.1,,,LinearSVC(),4,Brute Force,110,0,220,0,0,0
+21,5,0.1,,,LinearSVC(),4,DoS,359,0,1,3016,0,0
+21,5,0.1,,,LinearSVC(),4,Infiltration,460,3,0,24,0,1
+21,5,0.1,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+22,7,10.0,,,LinearSVC(),0,Benign,34524,5,1,485,232,53
+22,7,10.0,,,LinearSVC(),0,Bot,4,498,0,0,0,0
+22,7,10.0,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+22,7,10.0,,,LinearSVC(),0,DoS,113,0,2,3226,35,0
+22,7,10.0,,,LinearSVC(),0,Infiltration,476,0,0,7,4,1
+22,7,10.0,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+22,7,10.0,,,LinearSVC(),1,Benign,34512,7,0,511,207,63
+22,7,10.0,,,LinearSVC(),1,Bot,4,498,0,0,0,0
+22,7,10.0,,,LinearSVC(),1,Brute Force,329,0,1,0,0,0
+22,7,10.0,,,LinearSVC(),1,DoS,107,0,0,3255,14,0
+22,7,10.0,,,LinearSVC(),1,Infiltration,476,1,0,9,2,0
+22,7,10.0,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+22,7,10.0,,,LinearSVC(),2,Benign,34447,38,1,567,230,17
+22,7,10.0,,,LinearSVC(),2,Bot,7,495,0,0,0,0
+22,7,10.0,,,LinearSVC(),2,Brute Force,20,0,309,1,0,0
+22,7,10.0,,,LinearSVC(),2,DoS,150,0,2,3213,11,0
+22,7,10.0,,,LinearSVC(),2,Infiltration,478,2,0,6,0,2
+22,7,10.0,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+22,7,10.0,,,LinearSVC(),3,Benign,34410,32,2,597,223,36
+22,7,10.0,,,LinearSVC(),3,Bot,4,498,0,0,0,0
+22,7,10.0,,,LinearSVC(),3,Brute Force,4,0,326,0,0,0
+22,7,10.0,,,LinearSVC(),3,DoS,113,0,0,3237,26,0
+22,7,10.0,,,LinearSVC(),3,Infiltration,472,2,0,9,0,5
+22,7,10.0,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+22,7,10.0,,,LinearSVC(),4,Benign,34609,15,0,506,97,73
+22,7,10.0,,,LinearSVC(),4,Bot,4,498,0,0,0,0
+22,7,10.0,,,LinearSVC(),4,Brute Force,0,0,330,0,0,0
+22,7,10.0,,,LinearSVC(),4,DoS,160,0,0,3216,0,0
+22,7,10.0,,,LinearSVC(),4,Infiltration,477,1,0,8,0,2
+22,7,10.0,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+23,7,0.1,,,LinearSVC(),0,Benign,34364,88,3,763,76,6
+23,7,0.1,,,LinearSVC(),0,Bot,4,495,0,3,0,0
+23,7,0.1,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+23,7,0.1,,,LinearSVC(),0,DoS,442,0,2,2932,0,0
+23,7,0.1,,,LinearSVC(),0,Infiltration,468,4,0,14,2,0
+23,7,0.1,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+23,7,0.1,,,LinearSVC(),1,Benign,34266,88,0,879,61,6
+23,7,0.1,,,LinearSVC(),1,Bot,4,494,0,4,0,0
+23,7,0.1,,,LinearSVC(),1,Brute Force,132,0,198,0,0,0
+23,7,0.1,,,LinearSVC(),1,DoS,401,0,0,2975,0,0
+23,7,0.1,,,LinearSVC(),1,Infiltration,460,3,0,23,2,0
+23,7,0.1,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+23,7,0.1,,,LinearSVC(),2,Benign,34286,111,1,840,58,4
+23,7,0.1,,,LinearSVC(),2,Bot,6,495,0,1,0,0
+23,7,0.1,,,LinearSVC(),2,Brute Force,128,0,201,1,0,0
+23,7,0.1,,,LinearSVC(),2,DoS,386,0,2,2988,0,0
+23,7,0.1,,,LinearSVC(),2,Infiltration,466,6,0,14,2,0
+23,7,0.1,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+23,7,0.1,,,LinearSVC(),3,Benign,34085,93,0,926,184,12
+23,7,0.1,,,LinearSVC(),3,Bot,1,497,0,4,0,0
+23,7,0.1,,,LinearSVC(),3,Brute Force,157,0,173,0,0,0
+23,7,0.1,,,LinearSVC(),3,DoS,251,0,0,3125,0,0
+23,7,0.1,,,LinearSVC(),3,Infiltration,459,3,0,24,2,0
+23,7,0.1,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+23,7,0.1,,,LinearSVC(),4,Benign,34286,85,0,861,60,8
+23,7,0.1,,,LinearSVC(),4,Bot,2,497,0,3,0,0
+23,7,0.1,,,LinearSVC(),4,Brute Force,147,0,183,0,0,0
+23,7,0.1,,,LinearSVC(),4,DoS,377,0,1,2998,0,0
+23,7,0.1,,,LinearSVC(),4,Infiltration,461,2,0,24,0,1
+23,7,0.1,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+24,5,1.0,,,LinearSVC(),0,Benign,34547,7,2,534,169,41
+24,5,1.0,,,LinearSVC(),0,Bot,5,495,0,2,0,0
+24,5,1.0,,,LinearSVC(),0,Brute Force,4,0,324,2,0,0
+24,5,1.0,,,LinearSVC(),0,DoS,77,0,2,3256,41,0
+24,5,1.0,,,LinearSVC(),0,Infiltration,476,0,0,9,0,3
+24,5,1.0,,,LinearSVC(),0,SQL Injection,2,0,0,0,0,2
+24,5,1.0,,,LinearSVC(),1,Benign,34401,14,0,594,255,36
+24,5,1.0,,,LinearSVC(),1,Bot,4,498,0,0,0,0
+24,5,1.0,,,LinearSVC(),1,Brute Force,132,0,198,0,0,0
+24,5,1.0,,,LinearSVC(),1,DoS,120,0,0,3245,11,0
+24,5,1.0,,,LinearSVC(),1,Infiltration,473,1,0,11,2,1
+24,5,1.0,,,LinearSVC(),1,SQL Injection,2,0,0,1,0,1
+24,5,1.0,,,LinearSVC(),2,Benign,34528,44,1,639,73,15
+24,5,1.0,,,LinearSVC(),2,Bot,6,496,0,0,0,0
+24,5,1.0,,,LinearSVC(),2,Brute Force,328,0,0,1,1,0
+24,5,1.0,,,LinearSVC(),2,DoS,152,0,2,3222,0,0
+24,5,1.0,,,LinearSVC(),2,Infiltration,476,3,0,7,0,2
+24,5,1.0,,,LinearSVC(),2,SQL Injection,2,0,0,0,0,2
+24,5,1.0,,,LinearSVC(),3,Benign,34480,42,1,573,191,13
+24,5,1.0,,,LinearSVC(),3,Bot,4,498,0,0,0,0
+24,5,1.0,,,LinearSVC(),3,Brute Force,139,0,191,0,0,0
+24,5,1.0,,,LinearSVC(),3,DoS,108,0,0,3267,1,0
+24,5,1.0,,,LinearSVC(),3,Infiltration,472,2,0,8,6,0
+24,5,1.0,,,LinearSVC(),3,SQL Injection,2,0,0,1,0,1
+24,5,1.0,,,LinearSVC(),4,Benign,34395,19,1,577,273,35
+24,5,1.0,,,LinearSVC(),4,Bot,3,498,0,1,0,0
+24,5,1.0,,,LinearSVC(),4,Brute Force,147,0,183,0,0,0
+24,5,1.0,,,LinearSVC(),4,DoS,144,0,1,3214,17,0
+24,5,1.0,,,LinearSVC(),4,Infiltration,472,1,0,12,2,1
+24,5,1.0,,,LinearSVC(),4,SQL Injection,4,0,0,0,0,0
+25,5,10.0,scale,rbf,,0,Benign,35225,1,2,57,2,13
+25,5,10.0,scale,rbf,,0,Bot,6,496,0,0,0,0
+25,5,10.0,scale,rbf,,0,Brute Force,3,0,326,1,0,0
+25,5,10.0,scale,rbf,,0,DoS,22,0,0,3354,0,0
+25,5,10.0,scale,rbf,,0,Infiltration,485,0,0,1,2,0
+25,5,10.0,scale,rbf,,0,SQL Injection,3,0,0,0,0,1
+25,5,10.0,scale,rbf,,1,Benign,35231,4,3,51,0,11
+25,5,10.0,scale,rbf,,1,Bot,5,497,0,0,0,0
+25,5,10.0,scale,rbf,,1,Brute Force,2,0,328,0,0,0
+25,5,10.0,scale,rbf,,1,DoS,18,0,0,3358,0,0
+25,5,10.0,scale,rbf,,1,Infiltration,485,0,0,3,0,0
+25,5,10.0,scale,rbf,,1,SQL Injection,3,0,0,0,0,1
+25,5,10.0,scale,rbf,,2,Benign,35239,2,5,32,1,21
+25,5,10.0,scale,rbf,,2,Bot,7,495,0,0,0,0
+25,5,10.0,scale,rbf,,2,Brute Force,3,0,327,0,0,0
+25,5,10.0,scale,rbf,,2,DoS,21,0,0,3355,0,0
+25,5,10.0,scale,rbf,,2,Infiltration,484,0,0,3,1,0
+25,5,10.0,scale,rbf,,2,SQL Injection,1,0,0,0,0,3
+25,5,10.0,scale,rbf,,4,Benign,35222,3,3,62,0,10
+25,5,10.0,scale,rbf,,4,Bot,5,497,0,0,0,0
+25,5,10.0,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+25,5,10.0,scale,rbf,,4,DoS,16,0,0,3360,0,0
+25,5,10.0,scale,rbf,,4,Infiltration,488,0,0,0,0,0
+25,5,10.0,scale,rbf,,4,SQL Injection,3,0,0,0,0,1
+26,7,10.0,scale,rbf,,0,Benign,35226,1,2,57,2,12
+26,7,10.0,scale,rbf,,0,Bot,6,496,0,0,0,0
+26,7,10.0,scale,rbf,,0,Brute Force,3,0,326,1,0,0
+26,7,10.0,scale,rbf,,0,DoS,22,0,0,3354,0,0
+26,7,10.0,scale,rbf,,0,Infiltration,485,0,0,1,2,0
+26,7,10.0,scale,rbf,,0,SQL Injection,3,0,0,0,0,1
+26,7,10.0,scale,rbf,,1,Benign,35234,4,3,51,0,8
+26,7,10.0,scale,rbf,,1,Bot,5,497,0,0,0,0
+26,7,10.0,scale,rbf,,1,Brute Force,2,0,328,0,0,0
+26,7,10.0,scale,rbf,,1,DoS,18,0,0,3358,0,0
+26,7,10.0,scale,rbf,,1,Infiltration,485,0,0,3,0,0
+26,7,10.0,scale,rbf,,1,SQL Injection,3,0,0,0,0,1
+26,7,10.0,scale,rbf,,2,Benign,35247,2,5,32,1,13
+26,7,10.0,scale,rbf,,2,Bot,7,495,0,0,0,0
+26,7,10.0,scale,rbf,,2,Brute Force,3,0,327,0,0,0
+26,7,10.0,scale,rbf,,2,DoS,21,0,0,3355,0,0
+26,7,10.0,scale,rbf,,2,Infiltration,483,0,0,3,1,1
+26,7,10.0,scale,rbf,,2,SQL Injection,2,0,0,0,0,2
+26,7,10.0,scale,rbf,,4,Benign,35223,3,4,62,0,8
+26,7,10.0,scale,rbf,,4,Bot,5,497,0,0,0,0
+26,7,10.0,scale,rbf,,4,Brute Force,0,0,330,0,0,0
+26,7,10.0,scale,rbf,,4,DoS,16,0,0,3360,0,0
+26,7,10.0,scale,rbf,,4,Infiltration,488,0,0,0,0,0
+26,7,10.0,scale,rbf,,4,SQL Injection,4,0,0,0,0,0

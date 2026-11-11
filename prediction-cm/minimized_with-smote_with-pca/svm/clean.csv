@@ -1,0 +1,7 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_svm__kernel,param_svm__C,param_svm__gamma,param_svm,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,svm,RetrySVC,26,95.73429870605469,7,rbf,10.0,0.1,RetrySVC,clean,clean,0.0,Benign,2030006,2,16,2089,313,258
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,svm,RetrySVC,26,95.73429870605469,7,rbf,10.0,0.1,RetrySVC,clean,clean,0.0,Bot,328,28579,0,0,0,0
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,svm,RetrySVC,26,95.73429870605469,7,rbf,10.0,0.1,RetrySVC,clean,clean,0.0,Brute Force,90,0,18840,21,0,24
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,svm,RetrySVC,26,95.73429870605469,7,rbf,10.0,0.1,RetrySVC,clean,clean,0.0,DoS,944,0,0,193446,0,2
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,svm,RetrySVC,26,95.73429870605469,7,rbf,10.0,0.1,RetrySVC,clean,clean,0.0,Infiltration,27683,0,0,75,353,11
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,svm,RetrySVC,26,95.73429870605469,7,rbf,10.0,0.1,RetrySVC,clean,clean,0.0,SQL Injection,4,0,0,1,0,12

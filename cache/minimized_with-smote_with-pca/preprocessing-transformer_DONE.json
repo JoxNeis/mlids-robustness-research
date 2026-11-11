@@ -1,0 +1,60 @@
+{
+    "dataset": "cse-cic-ids2018",
+    "columns_to_drop": [
+        "destination ip",
+        "dst ip",
+        "flow id",
+        "source ip",
+        "source port",
+        "src ip",
+        "src port"
+    ],
+    "numeric_data_type": "float32",
+    "constant_features": [
+        "bwd_blk_rate_avg",
+        "bwd_byts_b_avg",
+        "bwd_pkts_b_avg",
+        "bwd_psh_flags",
+        "bwd_urg_flags",
+        "fwd_blk_rate_avg",
+        "fwd_byts_b_avg",
+        "fwd_pkts_b_avg"
+    ],
+    "nan_replacement": 0,
+    "infinity_offset": 1,
+    "timestamp_format": "%d/%m/%Y %H:%M:%S",
+    "window_bytes_columns": [
+        "init_fwd_win_byts",
+        "init_bwd_win_byts"
+    ],
+    "window_bytes_flagged_value": -1,
+    "class_mapping": {
+        "Benign": "Benign",
+        "Bot": "Bot",
+        "FTP-BruteForce": "Brute Force",
+        "SSH-Bruteforce": "Brute Force",
+        "Brute Force -Web": "Brute Force",
+        "Brute Force -XSS": "Brute Force",
+        "DDOS attack-HOIC": "DoS",
+        "DDOS attack-LOIC-UDP": "DoS",
+        "DDoS attacks-LOIC-HTTP": "DoS",
+        "DoS attacks-GoldenEye": "DoS",
+        "DoS attacks-Hulk": "DoS",
+        "DoS attacks-SlowHTTPTest": "DoS",
+        "DoS attacks-Slowloris": "DoS",
+        "Infilteration": "Infiltration",
+        "SQL Injection": "SQL Injection"
+    },
+    "row_hash_seeds": [
+        0,
+        1
+    ],
+    "dropped_columns": [
+        "date",
+        "time"
+    ],
+    "test_size": 0.2,
+    "random_state": 42,
+    "use_pca": true,
+    "pca_variance_threshold": 0.95
+}

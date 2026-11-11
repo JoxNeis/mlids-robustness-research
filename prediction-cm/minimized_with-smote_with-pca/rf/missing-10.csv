@@ -1,0 +1,7 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_rf__n_estimators,param_rf__max_depth,param_rf__max_features,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,rf,LeakFreeRandomForestClassifier,26,95.73429870605469,5,300,24,log2,missing-10,missing,0.1,Benign,2029764,1,8,125,2624,162
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,rf,LeakFreeRandomForestClassifier,26,95.73429870605469,5,300,24,log2,missing-10,missing,0.1,Bot,2941,25966,0,0,0,0
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,rf,LeakFreeRandomForestClassifier,26,95.73429870605469,5,300,24,log2,missing-10,missing,0.1,Brute Force,1899,0,17063,4,0,9
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,rf,LeakFreeRandomForestClassifier,26,95.73429870605469,5,300,24,log2,missing-10,missing,0.1,DoS,19342,0,1,175045,0,4
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,rf,LeakFreeRandomForestClassifier,26,95.73429870605469,5,300,24,log2,missing-10,missing,0.1,Infiltration,26054,0,0,2,2064,2
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,rf,LeakFreeRandomForestClassifier,26,95.73429870605469,5,300,24,log2,missing-10,missing,0.1,SQL Injection,7,0,2,0,0,8

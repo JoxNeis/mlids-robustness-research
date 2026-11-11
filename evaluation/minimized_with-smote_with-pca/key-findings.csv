@@ -1,0 +1,18 @@
+finding,answer,value
+Highest clean F1-score (macro),KNN,0.7373983393317859
+"Most robust model, all rows (mean retention)",SVM,0.9065039284453551
+"Least robust model, all rows (mean retention)",Logistic Regression,0.7482335844045264
+"Hardest scenario, all rows (mean retention)",gaussian-30,0.7716824656685416
+"Most damaging noise type, all rows (mean retention)",uniform,0.8340944720479322
+"Most robust model, noisy rows (mean retention)",SVM,0.35080917919480886
+"Least robust model, noisy rows (mean retention)",Random Forest,0.2276008400147069
+"Hardest scenario, noisy rows (mean retention)",uniform-20,0.2328238836081578
+"Most damaging noise type, noisy rows (mean retention)",uniform,0.23638017992425317
+Most unstable model on the noisy rows (mean flip rate),Logistic Regression,0.4717054329132229
+Model whose detected attacks turn Benign most often (mean evasion rate),Random Forest,0.9938228121316922
+Model with the most false alarms on the noisy rows (mean false alarm rate),Logistic Regression,0.45512216037102743
+Model with the most confident errors on the noisy rows,KNN,1.0
+Attack most often predicted as Benign on the noisy rows,Infiltration,0.8889010228628202
+Attack with the largest F1-score drop on the noisy rows,Brute Force,0.9309964020788662
+Largest flip rate on the intact rows (0 means the clean baseline is valid),,0.0
+Largest accuracy mixture residual (0 means the populations add up),,1.1102230246251565e-16

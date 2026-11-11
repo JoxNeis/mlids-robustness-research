@@ -1,0 +1,10 @@
+{
+    "sample_size": 800000,
+    "params": {
+        "rf__max_depth": 24,
+        "rf__max_features": "log2",
+        "rf__n_estimators": 300,
+        "smote__k_neighbors": 5
+    },
+    "smote_target_rank": 3
+}

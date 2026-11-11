@@ -1,0 +1,7 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_knn__n_neighbors,param_knn__metric,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,knn,KNeighborsClassifier,26,95.73429870605469,3,1,manhattan,multiplicative-20,multiplicative,0.2,Benign,1997788,133,556,2225,30819,1163
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,knn,KNeighborsClassifier,26,95.73429870605469,3,1,manhattan,multiplicative-20,multiplicative,0.2,Bot,4166,24544,0,12,167,18
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,knn,KNeighborsClassifier,26,95.73429870605469,3,1,manhattan,multiplicative-20,multiplicative,0.2,Brute Force,3197,0,15579,163,8,28
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,knn,KNeighborsClassifier,26,95.73429870605469,3,1,manhattan,multiplicative-20,multiplicative,0.2,DoS,22539,48,11,169637,1615,542
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,knn,KNeighborsClassifier,26,95.73429870605469,3,1,manhattan,multiplicative-20,multiplicative,0.2,Infiltration,25043,1,33,18,3003,24
+minimized_with-smote_with-pca,minimized,with-smote,with-pca,knn,KNeighborsClassifier,26,95.73429870605469,3,1,manhattan,multiplicative-20,multiplicative,0.2,SQL Injection,5,0,2,0,0,10
