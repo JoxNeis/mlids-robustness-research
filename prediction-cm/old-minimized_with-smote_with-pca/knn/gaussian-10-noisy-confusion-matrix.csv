@@ -1,0 +1,7 @@
+true_class,Benign,Botnet,Brute Force,DOS/DDOS,Infiltration,Web Attacks
+Benign,191445,324,432,3118,5872,790
+Botnet,2501,247,1,33,127,12
+Brute Force,1642,1,32,164,30,52
+DOS/DDOS,15438,133,31,3023,507,165
+Infiltration,2545,6,13,34,162,15
+Web Attacks,16,0,0,0,2,6

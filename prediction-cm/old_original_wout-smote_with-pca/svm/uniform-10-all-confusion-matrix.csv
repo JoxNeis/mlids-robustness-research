@@ -1,0 +1,16 @@
+true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+Benign,2015927,6,0,0,3,0,2586,31,35,3,12,5,419,0,3
+Bot,3190,25715,0,0,0,0,2,0,0,0,0,0,0,0,0
+Brute Force -Web,82,0,21,0,0,0,8,0,0,0,0,0,0,0,0
+Brute Force -XSS,20,0,0,19,0,0,7,0,0,0,0,0,0,0,0
+DDOS attack-HOIC,3940,0,0,0,35776,0,56,0,0,0,0,0,0,0,0
+DDOS attack-LOIC-UDP,41,0,0,0,0,262,43,0,0,0,0,0,0,0,0
+DDoS attacks-LOIC-HTTP,11813,0,0,0,0,65,103122,1,0,0,0,0,1,0,0
+DoS attacks-GoldenEye,835,0,0,0,0,0,8,6153,1282,0,0,0,0,0,0
+DoS attacks-Hulk,2791,0,0,0,0,0,115,23,26103,0,0,0,8,0,0
+DoS attacks-SlowHTTPTest,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0
+DoS attacks-Slowloris,643,0,0,0,0,0,0,0,0,0,1299,0,0,0,0
+FTP-BruteForce,4,0,0,0,0,0,0,0,0,2,0,5,0,0,0
+Infilteration,27420,0,0,0,0,0,64,2,1,1,0,1,379,0,0
+SQL Injection,12,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+SSH-Bruteforce,1868,0,0,0,0,0,0,1,0,0,0,1,0,0,16940
