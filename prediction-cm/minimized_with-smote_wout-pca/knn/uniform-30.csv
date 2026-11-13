@@ -1,0 +1,7 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_knn__n_neighbors,param_knn__metric,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,knn,KNeighborsClassifier,,,3,1,manhattan,uniform-30,uniform,0.3,Benign,1989545,375,1184,7972,32023,1585
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,knn,KNeighborsClassifier,,,3,1,manhattan,uniform-30,uniform,0.3,Bot,8000,20481,11,45,340,30
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,knn,KNeighborsClassifier,,,3,1,manhattan,uniform-30,uniform,0.3,Brute Force,4744,0,13395,728,83,25
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,knn,KNeighborsClassifier,,,3,1,manhattan,uniform-30,uniform,0.3,DoS,45600,93,541,145500,1738,920
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,knn,KNeighborsClassifier,,,3,1,manhattan,uniform-30,uniform,0.3,Infiltration,25309,6,13,114,2647,33
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,knn,KNeighborsClassifier,,,3,1,manhattan,uniform-30,uniform,0.3,SQL Injection,4,0,1,0,0,12

@@ -1,0 +1,9 @@
+{
+    "sample_size": 250000,
+    "params": {
+        "knn__metric": "manhattan",
+        "knn__n_neighbors": 1,
+        "smote__k_neighbors": 3
+    },
+    "smote_target_rank": 3
+}

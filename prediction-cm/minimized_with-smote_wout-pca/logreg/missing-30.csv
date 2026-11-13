@@ -1,0 +1,7 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_logreg__C,param_logreg__penalty,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,logreg,LogisticRegression,,,3,10.0,l2,missing-30,missing,0.3,Benign,1847722,21928,29008,75414,32373,26239
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,logreg,LogisticRegression,,,3,10.0,l2,missing-30,missing,0.3,Bot,6907,21718,201,19,6,56
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,logreg,LogisticRegression,,,3,10.0,l2,missing-30,missing,0.3,Brute Force,2719,6,15146,1016,58,30
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,logreg,LogisticRegression,,,3,10.0,l2,missing-30,missing,0.3,DoS,28480,2508,4270,154381,2920,1833
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,logreg,LogisticRegression,,,3,10.0,l2,missing-30,missing,0.3,Infiltration,25852,210,332,815,565,348
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,logreg,LogisticRegression,,,3,10.0,l2,missing-30,missing,0.3,SQL Injection,4,0,0,0,0,13

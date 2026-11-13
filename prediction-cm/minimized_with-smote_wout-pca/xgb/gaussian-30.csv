@@ -1,0 +1,7 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_xgb__n_estimators,param_xgb__max_depth,param_xgb__learning_rate,param_xgb__colsample_bytree,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force,DoS,Infiltration,SQL Injection
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,xgb,XGBClassifier,,,3,400,10,0.1,1.0,gaussian-30,gaussian,0.3,Benign,1727601,608,8367,17,295998,93
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,xgb,XGBClassifier,,,3,400,10,0.1,1.0,gaussian-30,gaussian,0.3,Bot,3777,20369,108,1,4651,1
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,xgb,XGBClassifier,,,3,400,10,0.1,1.0,gaussian-30,gaussian,0.3,Brute Force,3610,9,13482,7,1861,6
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,xgb,XGBClassifier,,,3,400,10,0.1,1.0,gaussian-30,gaussian,0.3,DoS,27994,104,1335,135831,29110,18
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,xgb,XGBClassifier,,,3,400,10,0.1,1.0,gaussian-30,gaussian,0.3,Infiltration,22319,7,103,0,5690,3
+minimized_with-smote_wout-pca,minimized,with-smote,wout-pca,xgb,XGBClassifier,,,3,400,10,0.1,1.0,gaussian-30,gaussian,0.3,SQL Injection,5,0,0,0,1,11
