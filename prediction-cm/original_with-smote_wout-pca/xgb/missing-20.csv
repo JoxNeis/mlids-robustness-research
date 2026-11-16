@@ -1,0 +1,16 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_xgb__n_estimators,param_xgb__max_depth,param_xgb__learning_rate,param_xgb__colsample_bytree,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,Benign,2011212,0,1143,83,1,0,7,0,0,0,1,0,20222,14,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,Bot,3108,25631,0,0,0,0,0,0,0,0,0,0,168,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,Brute Force -Web,26,0,84,0,0,0,0,0,0,0,0,0,0,1,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,Brute Force -XSS,10,0,0,34,0,0,0,0,0,0,0,0,1,1,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DDOS attack-HOIC,7160,0,0,0,32485,0,0,0,0,0,0,0,127,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DDOS attack-LOIC-UDP,47,0,0,0,0,287,5,0,0,0,0,0,7,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DDoS attacks-LOIC-HTTP,18613,0,0,0,0,74,96293,0,0,0,0,0,22,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DoS attacks-GoldenEye,1455,0,0,0,0,0,0,6802,1,0,20,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DoS attacks-Hulk,4813,0,0,1,0,0,0,0,24187,0,4,0,35,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DoS attacks-SlowHTTPTest,0,0,0,0,0,0,0,0,0,3,0,8,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,DoS attacks-Slowloris,305,0,0,0,0,0,0,0,0,0,1636,0,1,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,FTP-BruteForce,3,0,0,0,0,0,0,0,0,7,0,1,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,Infilteration,23640,0,1,0,0,0,0,0,0,0,0,0,4481,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,SQL Injection,5,0,0,1,0,0,0,0,0,0,0,0,0,11,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,xgb,XGBClassifier,,,7,400,6,0.1,0.6,missing-20,missing,0.2,SSH-Bruteforce,2998,0,0,0,0,0,0,0,0,0,0,1,14,0,15797

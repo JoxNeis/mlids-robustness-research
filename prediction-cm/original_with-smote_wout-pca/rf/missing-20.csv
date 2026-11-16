@@ -1,0 +1,16 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_rf__n_estimators,param_rf__max_depth,param_rf__max_features,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,Benign,2030847,0,803,138,116,0,255,10,7,2,110,2,375,15,3
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,Bot,5835,23072,0,0,0,0,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,Brute Force -Web,28,0,81,1,0,0,0,0,0,0,0,0,0,1,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,Brute Force -XSS,13,0,2,31,0,0,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DDOS attack-HOIC,8032,0,0,0,31740,0,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DDOS attack-LOIC-UDP,65,0,0,0,0,281,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DDoS attacks-LOIC-HTTP,23643,0,0,0,0,111,91248,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DoS attacks-GoldenEye,1634,0,0,0,0,0,0,6644,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DoS attacks-Hulk,5746,0,0,0,0,0,0,2,23292,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DoS attacks-SlowHTTPTest,0,0,0,0,0,0,0,0,0,7,0,4,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,DoS attacks-Slowloris,361,0,0,0,0,0,0,0,0,0,1581,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,FTP-BruteForce,3,0,0,0,0,0,0,0,0,7,0,1,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,Infilteration,27662,0,0,2,0,0,0,2,0,3,0,3,450,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,SQL Injection,7,0,3,0,0,0,0,0,0,0,0,0,0,7,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,missing-20,missing,0.2,SSH-Bruteforce,3701,0,0,0,0,0,0,0,1,0,0,0,0,0,15108

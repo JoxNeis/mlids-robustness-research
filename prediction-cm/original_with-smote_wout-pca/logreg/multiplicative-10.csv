@@ -1,0 +1,16 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_logreg__C,param_logreg__penalty,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,Benign,1949683,6477,6846,3333,5108,21,21653,10872,4502,626,10936,408,3155,5509,3554
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,Bot,1306,27450,25,1,0,0,13,44,15,9,12,4,10,6,12
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,Brute Force -Web,14,1,70,6,0,0,3,1,1,0,0,0,1,14,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,Brute Force -XSS,13,0,1,31,0,0,0,0,0,0,0,0,1,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DDOS attack-HOIC,902,204,141,50,37394,0,58,97,225,0,515,51,3,113,19
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DDOS attack-LOIC-UDP,0,0,0,0,0,325,21,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DDoS attacks-LOIC-HTTP,3044,45,373,164,689,154,108062,1162,234,3,909,5,43,112,3
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DoS attacks-GoldenEye,166,10,17,7,29,0,78,6479,1384,1,90,3,0,10,4
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DoS attacks-Hulk,313,14,66,208,54,0,478,979,26778,1,84,1,4,49,11
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DoS attacks-SlowHTTPTest,2,0,0,0,0,0,0,0,0,4,0,5,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,DoS attacks-Slowloris,43,0,0,4,1,0,1,62,2,3,1820,1,2,3,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,FTP-BruteForce,0,0,0,0,0,0,0,0,0,3,0,8,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,Infilteration,26636,48,93,168,43,0,294,123,86,56,130,17,292,124,12
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,SQL Injection,5,0,1,0,0,0,0,0,1,0,0,0,0,10,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,logreg,LogisticRegression,,,7,0.1,l1,multiplicative-10,multiplicative,0.1,SSH-Bruteforce,417,9,4,1,34,0,0,136,144,1,125,5,0,0,17934

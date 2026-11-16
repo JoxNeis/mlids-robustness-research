@@ -1,0 +1,16 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_knn__n_neighbors,param_knn__metric,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,Benign,1997150,461,210,6,38,0,67,3,17,0,66,5,34333,205,122
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,Bot,2412,26474,0,0,0,0,0,0,0,0,0,0,21,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,Brute Force -Web,20,0,88,1,0,0,0,0,0,0,0,0,0,2,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,Brute Force -XSS,3,0,0,39,0,0,0,0,0,0,0,0,0,4,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DDOS attack-HOIC,3225,1,0,0,36520,0,24,0,0,0,0,0,2,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DDOS attack-LOIC-UDP,15,0,0,0,0,315,13,0,0,0,0,0,3,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DDoS attacks-LOIC-HTTP,9332,0,0,0,0,118,105375,0,0,0,0,0,177,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DoS attacks-GoldenEye,701,0,0,0,0,0,2,7543,10,0,0,0,22,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DoS attacks-Hulk,2584,0,0,0,0,0,0,5,26291,0,9,0,151,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DoS attacks-SlowHTTPTest,2,0,0,0,0,0,0,0,0,1,0,6,0,0,2
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,DoS attacks-Slowloris,133,0,0,0,0,0,0,0,0,0,1805,0,4,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,FTP-BruteForce,0,0,0,0,0,0,0,0,0,9,0,1,0,0,1
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,Infilteration,24710,0,1,0,1,0,0,0,0,0,0,1,3406,0,3
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,SQL Injection,4,0,1,0,0,0,0,0,0,0,0,0,0,12,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,knn,KNeighborsClassifier,,,5,1,manhattan,missing-10,missing,0.1,SSH-Bruteforce,1408,0,0,0,0,0,0,0,0,1,0,0,0,0,17401

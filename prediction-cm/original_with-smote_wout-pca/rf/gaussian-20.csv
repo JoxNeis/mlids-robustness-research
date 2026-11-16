@@ -1,0 +1,16 @@
+experiment,classes,smote,pca,model,classifier,pca_components,pca_variance_percentage,smote_k_neighbors,param_rf__n_estimators,param_rf__max_depth,param_rf__max_features,scenario,noise_type,intensity,true_class,Benign,Bot,Brute Force -Web,Brute Force -XSS,DDOS attack-HOIC,DDOS attack-LOIC-UDP,DDoS attacks-LOIC-HTTP,DoS attacks-GoldenEye,DoS attacks-Hulk,DoS attacks-SlowHTTPTest,DoS attacks-Slowloris,FTP-BruteForce,Infilteration,SQL Injection,SSH-Bruteforce
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,Benign,2030826,0,820,141,117,6,262,12,6,4,111,2,357,17,2
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,Bot,6104,22803,0,0,0,0,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,Brute Force -Web,23,0,86,1,0,0,0,0,0,0,0,0,0,1,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,Brute Force -XSS,11,0,3,32,0,0,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DDOS attack-HOIC,8092,0,0,0,31680,0,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DDOS attack-LOIC-UDP,66,0,0,0,0,280,0,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DDoS attacks-LOIC-HTTP,23981,0,0,0,0,117,90904,0,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DoS attacks-GoldenEye,1666,0,0,0,0,0,0,6612,0,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DoS attacks-Hulk,5762,0,0,0,0,0,0,2,23276,0,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DoS attacks-SlowHTTPTest,1,0,0,0,0,0,0,0,0,7,0,3,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,DoS attacks-Slowloris,385,0,0,0,0,0,0,0,0,0,1557,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,FTP-BruteForce,8,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,Infilteration,27661,0,0,0,1,0,0,1,0,3,0,2,454,0,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,SQL Injection,6,0,2,0,0,0,0,0,0,0,0,0,0,9,0
+original_with-smote_wout-pca,original,with-smote,wout-pca,rf,LeakFreeRandomForestClassifier,,,7,300,12,log2,gaussian-20,gaussian,0.2,SSH-Bruteforce,3733,0,0,0,0,0,0,0,1,1,0,0,0,0,15075

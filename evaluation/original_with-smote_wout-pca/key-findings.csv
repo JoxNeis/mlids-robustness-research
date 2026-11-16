@@ -1,0 +1,18 @@
+finding,answer,value
+Highest clean F1-score (macro),KNN,0.7405860020729655
+"Most robust model, all rows (mean retention)",Random Forest,0.907893419581105
+"Least robust model, all rows (mean retention)",Logistic Regression,0.6699528984529309
+"Hardest scenario, all rows (mean retention)",gaussian-30,0.7127508488532054
+"Most damaging noise type, all rows (mean retention)",uniform,0.7841873274234656
+"Most robust model, noisy rows (mean retention)",KNN,0.32792358807143934
+"Least robust model, noisy rows (mean retention)",SVM,0.16781076828065375
+"Hardest scenario, noisy rows (mean retention)",uniform-30,0.1004990529486669
+"Most damaging noise type, noisy rows (mean retention)",uniform,0.10170751900969653
+Most unstable model on the noisy rows (mean flip rate),Logistic Regression,0.5857712723763996
+Model whose detected attacks turn Benign most often (mean evasion rate),Random Forest,0.9595462381925081
+Model with the most false alarms on the noisy rows (mean false alarm rate),Logistic Regression,0.566828969528759
+Model with the most confident errors on the noisy rows,KNN,1.0
+Attack most often predicted as Benign on the noisy rows,Infilteration,0.7549542454203683
+Attack with the largest F1-score drop on the noisy rows,DoS attacks-GoldenEye,0.8943837367092813
+Largest flip rate on the intact rows (0 means the clean baseline is valid),,0.0
+Largest accuracy mixture residual (0 means the populations add up),,1.1102230246251565e-16
